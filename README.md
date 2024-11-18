@@ -86,7 +86,7 @@ PASSWORD=your_password
     "Microwave": 1,
 }``
 ### Cities with Value
-- Edit the CITIES_WITH_VALUE dictionary to customize city-specific logic:
+- Edit the `CITIES_WITH_VALUE` dictionary to customize city-specific logic:
 ``CITIES_WITH_VALUE = {
     "Dallas": 1,
     "Irving": 1,
