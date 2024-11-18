@@ -98,7 +98,7 @@ PASSWORD=your_password
     "Mesquite": 0,
 }``
 ### Zip Codes
-- Add zip codes in the ZIP_CODES dictionary as needed:
+- Add zip codes in the `ZIP_CODES` dictionary as needed:
 ``ZIP_CODES = {
     "75001": 1,
     "75002": 0,
